@@ -8,9 +8,9 @@ Duration: 10th JUNE - 10th JULY
 
             Weather Forecast App
 
-Certainly! Here's an overview for a weather forecasting app:
 
 Introduction
+
 A weather forecasting app provides users with real-time weather information, forecasts, and alerts. The application leverages weather data from various sources to offer accurate and timely weather updates, helping users plan their activities accordingly.
 
 Core Features
